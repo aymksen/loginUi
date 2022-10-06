@@ -1,6 +1,6 @@
 
 ### Languages and Tools:
-<br />
+
 <img align="left" alt="kotlin" width="26px" src="https://user-images.githubusercontent.com/76121581/193798421-d9111dac-69ab-471a-a029-570f7a5a8395.png" style="padding-right:10px;" /><p>kotlin</p>
 
 
