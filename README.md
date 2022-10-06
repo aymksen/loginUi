@@ -3,10 +3,10 @@
 
 <img align="left" alt="kotlin" width="26px" src="https://user-images.githubusercontent.com/76121581/193798421-d9111dac-69ab-471a-a029-570f7a5a8395.png" style="padding-right:10px;" /><p>kotlin</p>
 
-<br />
 
 
-<img align="left" alt="AndroidStudio" width="26px" src="https://user-images.githubusercontent.com/76121581/193798419-37fe51df-743c-4fe3-82f8-9f3774ea2085.png" style="padding-right:10px;" /><p>kotlin</p>
+
+<img align="left" alt="AndroidStudio" width="26px" src="https://user-images.githubusercontent.com/76121581/193798419-37fe51df-743c-4fe3-82f8-9f3774ea2085.png" style="padding-right:10px;" /><p>Android Studio</p>
 
 
 <h1 align="center">Screenshots</h1>
