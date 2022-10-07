@@ -147,6 +147,8 @@
                     android:theme="@style/Button4"
                     android:textColorHint="#9C9C9C"
                     app:endIconMode="password_toggle"
+
+
                     >
 
                     <com.google.android.material.textfield.TextInputEditText
@@ -158,6 +160,7 @@
                         android:textSize="13sp"
                         android:textColor="@color/black"
                         android:textStyle="normal"
+
                         />
                 </com.google.android.material.textfield.TextInputLayout>
 

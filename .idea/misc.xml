@@ -8,7 +8,8 @@
         <entry key="..\:/Users/icans/Desktop/Android studio/loginUi/app/src/main/res/drawable/loginbackground.xml" value="0.293" />
         <entry key="..\:/Users/icans/Desktop/Android studio/loginUi/app/src/main/res/drawable/switch_trcks.xml" value="0.2985" />
         <entry key="..\:/Users/icans/Desktop/Android studio/loginUi/app/src/main/res/drawable/switch_tumbs.xml" value="0.2985" />
-        <entry key="..\:/Users/icans/Desktop/Android studio/loginUi/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/icans/Desktop/Android studio/loginUi/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/icans/Desktop/Android studio/loginUi/app/src/main/res/layout/activity_new.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
@@ -21,7 +22,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.18" />
+        <option name="scale" value="0.21" />
       </ProjectState>
     </option>
   </component>
